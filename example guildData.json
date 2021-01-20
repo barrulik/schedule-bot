@@ -1,0 +1,41 @@
+[
+  {
+    "channelid": "channelid",
+    "guildid": "guildid",
+    "timeline": ["10:00", "11:00"],
+    "lessons": {
+      "sunday": ["hebrew", "arabic"],
+      "monday": ["computer", "lol"],
+      "tuesday": ["computer", "lol"],
+      "wednesday": ["computer", "lol"],
+      "thursday": ["computer", "lol"],
+      "friday": ["computer", "lol"],
+      "saturday": ["computer", "lol"],
+      "links": {
+        "hebrew": "",
+        "computer": "",
+        "lol": ""
+      }
+    }
+  },
+  
+  {
+    "channelid": "channelid",
+    "guildid": "guildid",
+    "timeline": ["10:00", "11:00"],
+    "lessons": {
+      "sunday": ["hebrew", "arabic"],
+      "monday": ["computer", "lol"],
+      "tuesday": ["computer", "lol"],
+      "wednesday": ["computer", "lol"],
+      "thursday": ["computer", "lol"],
+      "friday": ["computer", "lol"],
+      "saturday": ["computer", "lol"],
+      "links": {
+        "hebrew": "",
+        "computer": "",
+        "lol": ""
+      }
+    }
+  }
+]

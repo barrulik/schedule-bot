@@ -1,0 +1,6 @@
+{
+	"prefix": "!",
+	"token":  "NzczODQ2NDY2MDQ4NDI1OTg0.X6PKrg.pwxQ5XlJ9o5lGYzbZ2C8DPUmDIQ",
+	"mongo_cluster": "mongodb+srv://barrulik:j9t93qxcpbK7w6yI@scheduledb.8ehyp.mongodb.net/scheduleDB?retryWrites=true&w=majority",
+	"port": "3000"
+}
